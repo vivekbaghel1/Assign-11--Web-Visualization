@@ -1,0 +1,62 @@
+/**
+.navbar .container-fluid .collapse {
+    float: right;
+}
+
+.navbarSupportedContent {
+    float: right;
+} **/
+body {
+    background-color: #f1f1f1;
+}
+.navbar-brand {
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px;
+    background-color: teal;
+}
+.conatiner{
+    margin-top:5px;
+    background-color:#f2f2f2;
+}
+.box{
+    color: black;
+    background-color:#99e6ff;
+    border: 5px;
+    
+}
+.box-left{
+    padding: 20px;
+    margin-bottom:30px;
+}
+.box-right{
+    padding:30px;
+}
+
+h1{
+    color: teal;
+}
+h2{
+    color: teal;
+}
+h3{
+    color: teal;
+}
+.footer{
+    background-color: grey;
+}
+h6{
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+}
+.dataframe{
+    background-color:white;
+    border: 2px solid #BFBFBF;
+    box-shadow:10px 10px 10px 5px #99e6ff;
+
+}
+.comp1{
+    background-color: #99e6ff;
+    padding: 10px;
+}
